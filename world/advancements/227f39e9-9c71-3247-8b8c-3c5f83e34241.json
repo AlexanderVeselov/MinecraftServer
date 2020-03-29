@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2020-03-30 02:13:34 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-11-17 02:33:02 +0300"
@@ -386,6 +392,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2019-11-16 23:02:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-03-29 23:27:49 +0300"
     },
     "done": true
   },
@@ -1015,6 +1027,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-11-17 00:46:33 +0300",
+      "minecraft:spider": "2020-03-29 23:43:39 +0300",
+      "minecraft:phantom": "2020-03-30 00:20:38 +0300",
       "minecraft:witch": "2020-03-29 03:37:34 +0300",
       "minecraft:zombie": "2019-11-17 00:30:19 +0300",
       "minecraft:drowned": "2020-03-29 03:21:31 +0300"
@@ -1510,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2020-03-30 02:13:34 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-11-17 01:37:11 +0300"
@@ -1948,6 +1968,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-11-16 23:02:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-03-30 00:20:01 +0300"
     },
     "done": true
   },
